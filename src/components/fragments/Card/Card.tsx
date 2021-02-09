@@ -4,7 +4,17 @@ import { Card as MuiCard } from '@material-ui/core';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
-
+/**
+ * @description
+ *
+ * @param hidden?: boolean
+ * @param title: string,
+ * @param text?: string,
+ * @param tags?: (string | Node)[],
+ * @param onCardClick?: (e: React.MouseEvent<HTMLElement, MouseEvent>) => void
+ * @export
+ * @interface CardProps
+ */
 export interface CardProps {
 	hidden?: boolean,
 	title: string,
