@@ -6,12 +6,12 @@ import Paper from '@material-ui/core/Paper';
 import SearchIcon from '@material-ui/icons/Search';
 
 export interface SearchbarPropType {
-	hidden: boolean,
+
 }
 
 
 export default function Searchbar(props: SearchbarPropType) {
-	const { hidden } = props;
+
 	const [count, setCount] = useState();
 	const ariaLabel = 'searchbar';
 	const handleSubmit = (e) => { };

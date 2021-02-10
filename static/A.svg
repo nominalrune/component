@@ -1,0 +1,447 @@
+<svg id="svg-1v" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 91.450000 84.170000" shape-rendering="crispEdges" text-rendering="crispEdges">
+	<style>
+		<![CDATA[
+		#svg-1v-star-middle01_ts {
+			animation: svg-1v-star-middle01_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-star-middle01_ts__ts {
+			0% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			10% {
+				transform: translate(39.467188px, 16.615469px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			20% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			30% {
+				transform: translate(39.467188px, 16.615469px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			40% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			50% {
+				transform: translate(39.467188px, 16.615469px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			60% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			70% {
+				transform: translate(39.467188px, 16.615469px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			80% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			90% {
+				transform: translate(39.467188px, 16.615469px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.520000, 0.515000, 0.565000, 1)
+			}
+
+			100% {
+				transform: translate(39.467188px, 16.615469px) scale(0.100000, 0.100000)
+			}
+		}
+
+		#svg-1v-star-middle02_ts {
+			animation: svg-1v-star-middle02_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-star-middle02_ts__ts {
+			0% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			10% {
+				transform: translate(64.883509px, 74.849062px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			20% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			30% {
+				transform: translate(64.883509px, 74.849062px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			40% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			50% {
+				transform: translate(64.883509px, 74.849062px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			60% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			70% {
+				transform: translate(64.883509px, 74.849062px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			80% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			90% {
+				transform: translate(64.883509px, 74.849062px) scale(1, 1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			100% {
+				transform: translate(64.883509px, 74.849062px) scale(0.100000, 0.100000)
+			}
+		}
+
+		#svg-1v-bigstars02_ts {
+			animation: svg-1v-bigstars02_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-bigstars02_ts__ts {
+			0% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			10% {
+				transform: translate(76.774845px, 56.069375px) scale(-1.100000, -1.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			20% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			30% {
+				transform: translate(76.774845px, 56.069375px) scale(-1.100000, -1.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			40% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			50% {
+				transform: translate(76.774845px, 56.069375px) scale(-1.100000, -1.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			60% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			70% {
+				transform: translate(76.774845px, 56.069375px) scale(-1.100000, -1.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			80% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			90% {
+				transform: translate(76.774845px, 56.069375px) scale(-1.100000, -1.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			100% {
+				transform: translate(76.774845px, 56.069375px) scale(-1, -1)
+			}
+		}
+
+		#svg-1v-star-small02_ts {
+			animation: svg-1v-star-small02_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-star-small02_ts__ts {
+			0% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			10% {
+				transform: translate(11.271875px, 55.216250px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			20% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			30% {
+				transform: translate(11.271875px, 55.216250px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			40% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			50% {
+				transform: translate(11.271875px, 55.216250px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			60% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			70% {
+				transform: translate(11.271875px, 55.216250px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			80% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			90% {
+				transform: translate(11.271875px, 55.216250px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			100% {
+				transform: translate(11.271875px, 55.216250px) scale(0.100000, 0.100000)
+			}
+		}
+
+		#svg-1v-star-small00_ts {
+			animation: svg-1v-star-small00_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-star-small00_ts__ts {
+			0% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			10% {
+				transform: translate(66.336634px, 29.978113px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			20% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			30% {
+				transform: translate(66.336634px, 29.978113px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			40% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			50% {
+				transform: translate(66.336634px, 29.978113px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			60% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			70% {
+				transform: translate(66.336634px, 29.978113px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			80% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			90% {
+				transform: translate(66.336634px, 29.978113px) scale(0.500000, 0.500000);
+				animation-timing-function: cubic-bezier(0.390000, 0.575000, 0.565000, 1)
+			}
+
+			100% {
+				transform: translate(66.336634px, 29.978113px) scale(0.100000, 0.100000)
+			}
+		}
+
+		#svg-1v-bigstars01_ts {
+			animation: svg-1v-bigstars01_ts__ts 3000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-bigstars01_ts__ts {
+			0% {
+				transform: translate(25.887500px, 29.398281px) scale(1, 1)
+			}
+
+			16.666667% {
+				transform: translate(25.887500px, 29.398281px) scale(1.050000, 1.050000)
+			}
+
+			33.333333% {
+				transform: translate(25.887500px, 29.398281px) scale(1, 1)
+			}
+
+			50% {
+				transform: translate(25.887500px, 29.398281px) scale(1.050000, 1.050000)
+			}
+
+			66.666667% {
+				transform: translate(25.887500px, 29.398281px) scale(1, 1)
+			}
+
+			83.333333% {
+				transform: translate(25.887500px, 29.398281px) scale(1.050000, 1.050000)
+			}
+
+			100% {
+				transform: translate(25.887500px, 29.398281px) scale(1, 1)
+			}
+		}
+
+		#svg-1v-commet_to {
+			animation: svg-1v-commet_to__to 5000ms linear 1 normal forwards;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes svg-1v-commet_to__to {
+			0% {
+				transform: translate(137.184375px, 0.999062px);
+				opacity: 0;
+				animation-timing-function: cubic-bezier(0.985000, 0.075000, 0.610000, 0.955000)
+			}
+			30% {
+				opacity: 0.05;
+			}
+
+			50% {
+				opacity: 1;
+				animation-timing-function:ease-out;
+			}
+			55% {
+				opacity: 0.9;
+				animation-timing-function:ease-out;
+			}
+			58% {
+				opacity: 0.1;
+			}
+
+			70% {
+				transform: translate(26.179688px, 112.763750px);
+				opacity: 0;
+				animation-timing-function: cubic-bezier(0.985000, 0.075000, 0.610000, 0.955000)
+			}
+
+			100% {
+				transform: translate(26.179688px, 112.763750px);
+			}
+		}
+
+		]]>
+	</style>
+	<defs>
+		<radialGradient id="svg-1v-star-middle01-fill" cx="0" cy="0" r="0.500000" spreadMethod="pad"
+			gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 0.50000000000000 0.50000000000000)">
+			<stop id="svg-1v-star-middle01-fill-0" offset="22%" stop-color="rgb(255,255,0)" />
+			<stop id="svg-1v-star-middle01-fill-1" offset="100%" stop-color="rgb(255,207,0)" />
+		</radialGradient>
+		<radialGradient id="svg-1v-star-middle02-fill" cx="0" cy="0" r="0.500000" spreadMethod="pad"
+			gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 0.50000000000000 0.50000000000000)">
+			<stop id="svg-1v-star-middle02-fill-0" offset="22%" stop-color="rgb(255,255,0)" />
+			<stop id="svg-1v-star-middle02-fill-1" offset="100%" stop-color="rgb(255,207,0)" />
+		</radialGradient>
+		<radialGradient id="svg-1v-star-small02-fill" cx="0" cy="0" r="0.500000" spreadMethod="pad"
+			gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 0.50000000000000 0.50000000000000)">
+			<stop id="svg-1v-star-small02-fill-0" offset="22%" stop-color="rgb(255,255,0)" />
+			<stop id="svg-1v-star-small02-fill-1" offset="100%" stop-color="rgb(255,207,0)" />
+		</radialGradient>
+		<radialGradient id="svg-1v-star-small00-fill" cx="0" cy="0" r="0.500000" spreadMethod="pad"
+			gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 0.50000000000000 0.50000000000000)">
+			<stop id="svg-1v-star-small00-fill-0" offset="22%" stop-color="rgb(255,255,0)" />
+			<stop id="svg-1v-star-small00-fill-1" offset="100%" stop-color="rgb(255,207,0)" />
+		</radialGradient>
+	</defs><text id="svg-1v-a" style="isolation:isolate" dx="0" dy="0"
+		font-family="Times New Roman" font-size="64"
+		transform="matrix(1 0 0 1 24.51406250000002 62.01468750000006)" paint-order="stroke markers fill"
+		fill="rgb(255,0,0)" stroke="rgb(243,243,243)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+		<![CDATA[A]]></text>
+	<g id="svg-1v-star-middle01_ts" transform="translate(39.467188,16.615469) scale(0.100000,0.100000)"><text
+			id="svg-1v-star-middle01" style="isolation:isolate" dx="0" dy="0" font-family="Symbol" font-size="14"
+			transform="translate(-5.718750,5.468750)" paint-order="stroke markers fill"
+			fill="url(#svg-1v-star-middle01-fill)" stroke="rgb(211,164,0)" stroke-width="1" stroke-linecap="round"
+			stroke-linejoin="round">
+			<![CDATA[✦]]></text></g>
+	<g id="svg-1v-star-middle02_ts" transform="translate(64.883509,74.849062) scale(0.100000,0.100000)"><text
+			id="svg-1v-star-middle02" style="isolation:isolate" dx="0" dy="0" font-family="Symbol" font-size="14"
+			transform="translate(-5.718750,5.468750)" paint-order="stroke markers fill"
+			fill="url(#svg-1v-star-middle02-fill)" stroke="rgb(211,164,0)" stroke-width="1" stroke-linecap="round"
+			stroke-linejoin="round">
+			<![CDATA[✦]]></text></g>
+	<g id="svg-1v-bigstars02_ts" transform="translate(76.774845,56.069375) scale(-1,-1)"><text id="svg-1v-bigstars02"
+			style="isolation:isolate" dx="0" dy="0" font-family="Roboto" font-size="14"
+			transform="translate(-9.617187,4.953125)" paint-order="stroke markers fill" fill="#000">
+			<![CDATA[✨]]></text></g>
+	<g id="svg-1v-star-small02_ts" transform="translate(11.271875,55.216250) scale(0.100000,0.100000)"><text
+			id="svg-1v-star-small02" style="isolation:isolate" dx="0" dy="0" font-family="Symbol" font-size="14"
+			transform="translate(-5.718750,5.468750)" paint-order="stroke markers fill"
+			fill="url(#svg-1v-star-small02-fill)" stroke="rgb(211,164,0)" stroke-width="1" stroke-linecap="round"
+			stroke-linejoin="round">
+			<![CDATA[✦]]></text></g>
+	<g id="svg-1v-star-small00_ts" transform="translate(66.336634,29.978113) scale(0.100000,0.100000)"><text
+			id="svg-1v-star-small00" style="isolation:isolate" dx="0" dy="0" font-family="Symbol" font-size="14"
+			transform="translate(-5.718750,5.468750)" paint-order="stroke markers fill"
+			fill="url(#svg-1v-star-small00-fill)" stroke="rgb(211,164,0)" stroke-width="1" stroke-linecap="round"
+			stroke-linejoin="round">
+			<![CDATA[✦]]></text></g>
+	<g id="svg-1v-bigstars01_ts" transform="translate(25.887500,29.398281) scale(1,1)"><text id="svg-1v-bigstars01"
+			style="isolation:isolate" dx="0" dy="0" font-family="Roboto" font-size="20"
+			transform="translate(-13.734375,6.945312)" paint-order="stroke markers fill">
+			<![CDATA[✨]]></text></g>
+	<g id="svg-1v-commet_to" transform="translate(137.184375,0.999062)"><text id="svg-1v-commet"
+			style="isolation:isolate" dx="0" dy="0" font-family="Roboto" font-size="30"
+			transform="translate(-45.734375,0)" paint-order="stroke markers fill" >
+			<![CDATA[🌠]]></text></g>
+</svg>

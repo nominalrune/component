@@ -5,46 +5,47 @@ import Button,{ButtonPropType} from '../Button';
 const Template: Story<ButtonPropType> = (args:ButtonPropType) => <Button {...args} />
 
 export default {
-title: 'Button',
+title: 'Elements/Button',
 component: Button
 } as Meta<ButtonPropType>;
 
 export const Default = Template.bind({});
 Default.args = {
-	hidden: false,
+	children:'Hi!',
 	medium:true,
 	large:false,
 	small:false,
 	variant:'contained',
-	highlighted:false,
+	highlight:false,
 	error:false,
 	disabled:false
-
-};
-export const hidden = Template.bind({});
-hidden.args = {
-	hidden: true
 };
 
-export const highlighted = Template.bind({});
-highlighted.args = {
-	hidden: false,
+export const highlight = Template.bind({});
+highlight.args = {
+	children:'Hi!',
 	medium:true,
 	large:false,
 	small:false,
 	variant:'contained',
-	highlighted:true,
+	highlight:true,
 	error:false,
 	disabled:false
 };
 
 export const large = Template.bind({});
 large.args = {
-	large: true
+	children:'Hi!',
+	large: true,
+	small:false,
+	variant:'contained',
+	highlight:false,
+	error:false,
+	disabled:false
 };
 export const small = Template.bind({});
 small.args = {
-	hidden: false,
+	children:'Hi!',
 	medium:false,
 	large:false,
 	small:true,
@@ -53,16 +54,14 @@ small.args = {
 	error:false,
 	disabled:false
 };
-export const small = Template.bind({});
-small.args = {
-	hidden: false,
+export const error = Template.bind({});
+error.args = {
+	children:'Hi!',
 	medium:false,
 	large:false,
 	small:false,
 	variant:'contained',
 	highlighted:false,
-	error:false,
-	disabled:true
+	error:true,
+	disabled:false
 };
-
-
